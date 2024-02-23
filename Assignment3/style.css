@@ -18,11 +18,16 @@ h2 {
   font-style: italic; /* Added italic style */
 }
 
+
 .job-title {
   color: #999999;
   font-weight: bold;
 }
-
+ul {
+  background-color: #eeeeee;
+  border: 5px solid purple;
+  padding: 25px; /* Added padding */
+}
 a:link,
 a:visited {
   color: #fb6542;
