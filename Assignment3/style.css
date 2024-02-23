@@ -34,5 +34,6 @@ a:visited {
 }
 
 a:hover {
+  color: green; /* Modified color on hover to green */
   text-decoration: none;
 }
