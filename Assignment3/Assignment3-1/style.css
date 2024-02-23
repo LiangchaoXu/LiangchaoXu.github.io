@@ -4,7 +4,9 @@ html {
 div {
 
   width: 200px;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+
   line-height: 9;
   font-size: 1.1rem;
   text-align: center;
